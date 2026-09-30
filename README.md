@@ -20,7 +20,7 @@ I'm a B.Tech Electronics & Communication Engineering student who loves turning w
 
 ## 📫 Connect
 
-- 📧 prasadshiva5255@gmail.com
+- 📧 ganamollashivaprasad@gmail.com
 
 ---
 *Learning, building, and pushing something new every week.* 🚀
