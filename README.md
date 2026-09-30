@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ganamolla Shiva Prasad 👋
 
-<!--
-**gshivaprasad0009-gana/gshivaprasad0009-gana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Electronics & Communication Engineering student who loves turning what I learn into working projects — software and hardware alike.
 
-Here are some ideas to get you started:
+## 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 **Python** — scripting, tools, and apps (Streamlit)
+- 🤖 **AI / ML** — learning and experimenting
+- 🔌 **ESP32 & IoT** — connecting code to the real world
+- ⚡ **Embedded systems** — where ECE meets software
+
+## 🚀 Projects
+
+- ⚡ [ECE Smart Lab Assistant](https://github.com/gshivaprasad0009-gana/ece-smart-lab-assistant) — an interactive Streamlit toolkit for ECE students: 10+ circuit & ECE calculators, quick concept notes, and an AI assistant.
+
+## 📈 Currently
+
+- Deepening my AI/ML and embedded development skills
+- Building tools that make ECE lab work easier for students
+
+## 📫 Connect
+
+- 📧 prasadshiva5255@gmail.com
+
+---
+*Learning, building, and pushing something new every week.* 🚀
