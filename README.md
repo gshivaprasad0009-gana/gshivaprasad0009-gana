@@ -11,6 +11,7 @@ I'm a B.Tech Electronics & Communication Engineering student who loves turning w
 
 ## 🚀 Projects
 
+- 🌡️ [ESP32 Environment Monitor](https://github.com/gshivaprasad0009-gana/esp32-environment-monitor) — end-to-end IoT pipeline: ESP32 + DHT22 sensor → MQTT → SQLite → live Streamlit dashboard → ML anomaly detection.
 - ⚡ [ECE Smart Lab Assistant](https://github.com/gshivaprasad0009-gana/ece-smart-lab-assistant) — an interactive Streamlit toolkit for ECE students: 10+ circuit & ECE calculators, quick concept notes, and an AI assistant.
 
 ## 📈 Currently
