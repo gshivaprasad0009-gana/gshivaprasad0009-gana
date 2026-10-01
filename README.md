@@ -80,7 +80,7 @@ An IoT monitoring pipeline connecting an ESP32 sensor system to data storage, a 
 ## 🌐 Connect
 
 - 💻 GitHub: https://github.com/gshivaprasad0009-gana
-- ▶️ YouTube: https://www.youtube.com/@Shiva_unfolded
+- 💼 LinkedIn: https://www.linkedin.com/in/shiva-prasad-44334a328
 
 ---
 
