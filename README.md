@@ -31,11 +31,19 @@ An interactive ECE learning toolkit with circuit calculators, engineering utilit
 
 ### 🌡️ ESP32 Environment Monitor
 
-An IoT monitoring pipeline connecting an ESP32 sensor system to data storage, a live dashboard and anomaly detection.
+An end-to-end IoT pipeline: ESP32 + DHT22 + LDR sensors → MQTT → SQLite → live Streamlit dashboard → ML anomaly detection → threshold alerts. Tested with CI, licensed, and tagged v1.0.0.
 
-**Tech:** ESP32 • MQTT • Python • SQLite • Streamlit • ML
+**Tech:** ESP32 • MQTT • Python • SQLite • Streamlit • scikit-learn
 
 🔗 https://github.com/gshivaprasad0009-gana/esp32-environment-monitor
+
+### 🐍 30 Days of Python
+
+A daily practice challenge — one small program and one honest commit every day, building Python fundamentals from the ground up.
+
+**Tech:** Python
+
+🔗 https://github.com/gshivaprasad0009-gana/30-days-of-python
 
 ---
 
